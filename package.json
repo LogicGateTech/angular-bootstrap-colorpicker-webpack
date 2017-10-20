@@ -1,0 +1,17 @@
+{
+  "name": "angular-bootstrap-colorpicker-webpack",
+  "version": "1.0.1",
+  "description": "webpack version of angular-bootstrap-colorpicker-webpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "colorpicker",
+    "webpack"
+  ],
+  "author": "Justin Young",
+  "license": "ISC"
+}
