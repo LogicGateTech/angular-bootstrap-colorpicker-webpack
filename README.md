@@ -1,4 +1,7 @@
+This fork was made with a simple change to use var instead of let when requiring angular. Let usage was causing issues with UglifyJs in our webpack build.
+
 # angular-bootstrap-colorpicker-webpack
+
 
 ### The Basics
   - Based on http://codepen.io/buberdds/full/fBAsr/
